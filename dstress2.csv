@@ -1,4 +1,4 @@
-﻿id,name,condition,day,activity,completed,difficulty_rating,success,rep,personalized,difficulty,lag,frequency,normlag,normfeq
+﻿id,name,condition,day,activity,completed,difficulty_rating,success,rep,personalized,difficulty,lag,frequency,normlag,normfreq
 602,araturi,babysteps,0,crunches,1,1,1,1,1,1.076794345,0,0,0,0
 602,araturi,babysteps,0,pushups_off_wall,1,1,1,1,1,1.037149335,0,0,0,0
 602,araturi,babysteps,0,standing_knee_lifts,1,1,1,1,1,1.076806387,0,0,0,0
